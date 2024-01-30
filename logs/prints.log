@@ -1,0 +1,109 @@
+22:28:18.281 [main] DEBUG testNGTests.DevTest - driver is started
+22:28:19.588 [main] DEBUG testNGTests.DevTest - app is open on contact page
+22:28:19.693 [main] DEBUG testNGTests.DevTest - click on the contact button
+22:28:19.725 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+22:28:19.725 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+22:28:19.904 [main] DEBUG testNGTests.DevTest - Browser is closed
+22:29:43.674 [main] DEBUG testNGTests.DevTest - driver is started
+22:29:44.661 [main] DEBUG testNGTests.DevTest - app is open on contact page
+22:29:44.995 [main] DEBUG testNGTests.DevTest - click on the contact button
+22:29:45.030 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+22:29:45.031 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+22:29:45.196 [main] DEBUG testNGTests.DevTest - Browser is closed
+11:51:07.088 [main] DEBUG testNGTests.DevTest - driver is started
+11:51:08.264 [main] DEBUG testNGTests.DevTest - app is open on contact page
+11:51:08.473 [main] DEBUG testNGTests.DevTest - click on the contact button
+11:51:08.504 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+11:51:08.504 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+11:52:21.659 [main] DEBUG testNGTests.DevTest - driver is started
+11:52:31.895 [main] DEBUG testNGTests.DevTest - app is open on contact page
+11:52:32.215 [main] DEBUG testNGTests.DevTest - click on the contact button
+11:52:32.239 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+11:52:32.239 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+11:53:35.786 [main] DEBUG testNGTests.DevTest - driver is started
+11:53:35.982 [main] DEBUG testNGTests.DevTest - app is open on contact page
+11:53:37.138 [main] DEBUG testNGTests.DevTest - click on the contact button
+11:53:37.194 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+11:53:37.195 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+11:57:58.763 [main] DEBUG testNGTests.DevTest - driver is started
+11:57:58.934 [main] DEBUG testNGTests.DevTest - app is open on contact page
+11:58:00.115 [main] DEBUG testNGTests.DevTest - click on the contact button
+11:58:00.151 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+11:58:00.151 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:02:04.729 [main] DEBUG testNGTests.DevTest - driver is started
+12:02:05.793 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:02:06.050 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:02:06.074 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:02:06.074 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:05:30.336 [main] DEBUG testNGTests.DevTest - driver is started
+12:05:31.465 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:05:31.714 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:05:31.743 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:05:31.744 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:08:35.863 [main] DEBUG testNGTests.DevTest - driver is started
+12:09:23.055 [main] DEBUG testNGTests.DevTest - driver is started
+12:09:24.122 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:09:24.409 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:09:24.437 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:09:24.437 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:09:24.616 [main] DEBUG testNGTests.DevTest - Browser is closed
+12:10:06.382 [main] DEBUG testNGTests.DevTest - driver is started
+12:10:07.310 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:10:07.660 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:10:07.685 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:10:07.686 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:13:22.288 [main] DEBUG testNGTests.DevTest - driver is started
+12:13:23.341 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:13:23.568 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:13:23.607 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:13:23.607 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:17:55.069 [main] DEBUG testNGTests.DevTest - driver is started
+12:17:56.330 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:17:56.432 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:17:56.469 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:17:56.470 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:19:00.603 [main] DEBUG testNGTests.DevTest - driver is started
+12:19:01.773 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:19:01.882 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:19:01.920 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:19:01.920 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:19:02.091 [main] DEBUG testNGTests.DevTest - Browser is closed
+12:19:14.715 [main] DEBUG testNGTests.DevTest - driver is started
+12:19:15.742 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:19:16.038 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:19:16.064 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:19:16.065 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:19:16.579 [main] DEBUG testNGTests.DevTest - Browser is closed
+12:19:45.929 [main] DEBUG testNGTests.DevTest - driver is started
+12:20:07.878 [main] DEBUG testNGTests.DevTest - driver is started
+12:20:08.913 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:20:09.146 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:20:09.174 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:20:09.175 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:20:37.225 [main] DEBUG testNGTests.DevTest - driver is started
+12:20:37.387 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:20:38.514 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:20:38.548 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:20:38.549 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:20:39.016 [main] DEBUG testNGTests.DevTest - Browser is closed
+12:31:26.169 [main] DEBUG testNGTests.DevTest - driver is started
+12:31:27.262 [main] DEBUG testNGTests.DevTest - app is open on contact page
+12:31:27.286 [main] DEBUG testNGTests.DevTest - Test contactTest started
+12:31:27.494 [main] DEBUG testNGTests.DevTest - click on the contact button
+12:31:27.536 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+12:31:27.536 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+12:31:28.050 [main] DEBUG testNGTests.DevTest - Browser is closed
+21:37:56.026 [main] DEBUG testNGTests.DevTest - Test contactTest started
+21:37:58.911 [main] DEBUG testNGTests.DevTest - driver is started
+21:38:00.322 [main] DEBUG testNGTests.DevTest - app is open on contact page
+21:38:00.427 [main] DEBUG testNGTests.DevTest - click on the contact button
+21:38:00.457 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+21:38:00.457 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+21:38:01.011 [main] DEBUG testNGTests.DevTest - Browser is closed
+21:43:57.903 [main] DEBUG testNGTests.DevTest - Test contactTest started
+21:44:00.086 [main] DEBUG testNGTests.DevTest - driver is started
+21:44:01.543 [main] DEBUG testNGTests.DevTest - app is open on contact page
+21:44:01.665 [main] DEBUG testNGTests.DevTest - click on the contact button
+21:44:01.696 [main] INFO  testNGTests.DevTest - check warning message under field where message is required
+21:44:01.696 [main] ERROR testNGTests.DevTest - wrong warning message is displayed java.lang.Exception
+21:44:02.199 [main] DEBUG testNGTests.DevTest - Browser is closed
